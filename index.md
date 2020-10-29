@@ -35,8 +35,8 @@ layout: default
 
 |  科目  |      標題       |             簡介             |
 |--------|----------------|------------------------------|
-|  國文  | [看我如何混完高一](./c_hw/ch_hw01.html) | 一份寫到一半就懶的寫的期中作業 |
+|  國文  | [看我如何混完高一](https://031155414.github.io/menu/c_hw/ch_hw01.html) | 一份寫到一半就懶的寫的期中作業 |
 
 * * *
 
-[next page](./another-page.html)
+[next page](https://031155414.github.io/menu/another-page.html)
