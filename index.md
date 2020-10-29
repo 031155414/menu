@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-[next page](./another-page.html).
 
 ### 書是為自己讀的，記錄是為自己記的。
 
@@ -11,6 +10,8 @@ layout: default
 * __線性代數__  
 * __普通物理__  
 * __計算機概論__  
+
+* * *
 
 # 自介  
 ### 大一學店仔  
@@ -37,3 +38,4 @@ layout: default
 
 * * *
 
+[next page](./another-page.html)
