@@ -19,3 +19,4 @@ layout: default
 　　就在這樣忙碌的高中生活中，不知不覺的升上了高二，
 
 [back](./index.html)
+[back](./)
