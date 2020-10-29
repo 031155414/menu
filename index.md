@@ -15,13 +15,15 @@ layout: default
 
 * 計算機概論
 
-#### Header 4
+#### 自介 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+大一學店仔
 
-##### Header 5
+>天賦是基本的，勤奮是必須的  
+相信勤能補拙，直到上了大學  
+最晚一點睡六點起，當自己的鬧鐘  
+
+#### 
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
