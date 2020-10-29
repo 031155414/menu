@@ -7,27 +7,22 @@ layout: default
 
 ## 目標
 
-* __微積分__
+* __微積分__  
+* __線性代數__  
+* __普通物理__  
+* __計算機概論__  
 
-* __線性代數__
-
-* __普通物理__
-
-* __計算機概論__
-
-## 自介 
-
-### 大一學店仔
+## 自介  
+### 大一學店仔  
 
 >天賦是基本的，勤奮是必須的  
 相信勤能補拙，直到上了大學  
 最晚一點睡六點起，當自己的鬧鐘  
 
-### 
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## 常用網站  
+[Python Library](https://docs.python.org/zh-tw/3/library/index.html)  
+[ZeroJudge](https://zerojudge.tw/)  
+[LeetCode](https://leetcode.com/problemset/all/)  
 
 ###### Header 6
 
