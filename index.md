@@ -3,35 +3,33 @@ layout: default
 ---
 [next page](./another-page.html).
 
-#### 書是為自己讀的，記錄是為自己記的。
+### 書是為自己讀的，記錄是為自己記的。
 
-## 目標
+# 目標
 
 * __微積分__  
 * __線性代數__  
 * __普通物理__  
 * __計算機概論__  
 
-## 自介  
+# 自介  
 ### 大一學店仔  
 
 >天賦是基本的，勤奮是必須的  
 相信勤能補拙，直到上了大學  
 最晚一點睡六點起，當自己的鬧鐘  
 
-## 常用網站  
+# 常用網站  
 [Python Library](https://docs.python.org/zh-tw/3/library/index.html)  
 [ZeroJudge](https://zerojudge.tw/)  
 [LeetCode](https://leetcode.com/problemset/all/)  
+[Python Algorithm](https://github.com/TheAlgorithms/Python)
 
-###### Header 6
+# 作業回收區
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|  科目  |      標題       |             簡介             |
+|--------|----------------|------------------------------|
+|  國文  | [看我如何混完高一]() | 一份寫到一半就懶的寫的期中作業 |
 
 ### There's a horizontal rule below this.
 
