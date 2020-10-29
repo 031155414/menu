@@ -7,23 +7,23 @@ layout: default
 
 ## 目標
 
-* 微積分
+* __微積分__
 
-* 線性代數
+* __線性代數__
 
-* 普通物理
+* __普通物理__
 
-* 計算機概論
+* __計算機概論__
 
-#### 自介 
+## 自介 
 
-大一學店仔
+### 大一學店仔
 
 >天賦是基本的，勤奮是必須的  
 相信勤能補拙，直到上了大學  
 最晚一點睡六點起，當自己的鬧鐘  
 
-#### 
+### 
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
