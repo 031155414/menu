@@ -24,9 +24,9 @@ layout: default
 * * *
 
 # 常用網站  
-*開放式課程  
-  *[微積分-朱樺](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/100S111)
-  *[普通物理-周啟](http://ocw.nsysu.edu.tw/files/11-1059-5411-1.php)
+* 開放式課程  
+  * [微積分-朱樺](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/100S111)  
+  * [普通物理-周啟](http://ocw.nsysu.edu.tw/files/11-1059-5411-1.php)  
 
 * * *
 
