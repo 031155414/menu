@@ -24,10 +24,9 @@ layout: default
 * * *
 
 # 常用網站  
-[Python Library](https://docs.python.org/zh-tw/3/library/index.html)  
-[ZeroJudge](https://zerojudge.tw/)  
-[LeetCode](https://leetcode.com/problemset/all/)  
-[Python Algorithm](https://github.com/TheAlgorithms/Python)
+*開放式課程  
+  *[微積分-朱樺](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/100S111)
+  *[普通物理-周啟](http://ocw.nsysu.edu.tw/files/11-1059-5411-1.php)
 
 * * *
 
