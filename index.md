@@ -7,26 +7,39 @@ layout: default
 # 目標
 
 * __微積分__  
-* __線性代數__  
-* __普通物理__  
-* __計算機概論__  
-* __程式設計(Python)__  
+* __程式設計(C)__  
 
 * * *
 
 # 自介  
 ### 大一學店仔  
-
->天賦是基本的，勤奮是必須的  
-相信勤能補拙，直到上了大學  
-最晚一點睡六點起，當自己的鬧鐘  
+學過的有普通物理、計算機概論、線性代數
+正在學習英文、資料結構、演算法、C、邏輯電路
+有待練習的有C++、Python、微積分
+未來想學好C#、Design Pattern
 
 * * *
 
-# 常用網站  
-* 開放式課程  
-  * [微積分-朱樺](http://ocw.aca.ntu.edu.tw/ntu-ocw/index.php/ocw/cou/100S111)  
-  * [普通物理-周啟](http://ocw.nsysu.edu.tw/files/11-1059-5411-1.php)  
+# 我的學習書籤
+## * 教程
+  * [菜鳥教程]](https://www.runoob.com/)  
+  * [Python版本演算法](https://kuruton.hatenablog.com/)  
+  * [Python - 100天從新手到大師](https://github.com/jackfrued/Python-100-Days)
+  * [C++基礎](http://learn.onlinegdb.com/c%2B%2B_for_beginners)
+  * [C++進階](https://www.geeksforgeeks.org/c-plus-plus/?ref=shm)
+  * [資料結構與演算法](http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html)
+## * 參考
+  * [MarkDown參考](https://markdown.tw/)
+  * [C++參考](https://www.cplusplus.com/reference/)
+  * [C參考](https://zh.cppreference.com/w/c)
+  * [Python參考](https://docs.python.org/zh-tw/3/library/index.html)
+## * 問題集
+  * [LeetCode](https://leetcode.com/problemset/all/)
+  * [UVa](https://uhunt.onlinejudge.org/id/0)
+## * 學習資源
+  * [Slader](https://www.slader.com/home/)
+  * [Symbolab](https://zs.symbolab.com/)
+  
 
 * * *
 
