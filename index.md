@@ -22,7 +22,7 @@ layout: default
 
 # 我的學習書籤
 ##  教程
-[菜鳥教程]](https://www.runoob.com/)  
+[菜鳥教程](https://www.runoob.com/)  
 [Python版本演算法](https://kuruton.hatenablog.com/)  
 [Python - 100天從新手到大師](https://github.com/jackfrued/Python-100-Days)
 [C++基礎](http://learn.onlinegdb.com/c%2B%2B_for_beginners)
